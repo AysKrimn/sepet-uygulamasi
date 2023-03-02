@@ -1,0 +1,34 @@
+[
+
+    {
+
+        "id": 1,
+        "name": "Wolf",
+        "icon": "./material/wolf.jpg"
+    }, 
+
+
+    {
+        "id": 2,
+        "name": "Kartal",
+        "icon": "./material/eag.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Freak",
+        "icon": "./material/skull.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Replika",
+        "icon": "./material/falem.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Lovers",
+        "icon": "./material/evl1.png"
+    }
+]
